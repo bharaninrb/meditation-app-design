@@ -67,7 +67,7 @@ The Meditation App is a beautifully designed platform created to help you achiev
 
 ### Try it Online 💻
 
-Experience the Meditation App live [here](https://meditationapp-design.netlify.app/).
+Experience the Meditation App live [here](https://www.figma.com/proto/ZHoLTToXjiNiwXGCJ4PkkU/meditation-app?embed_host=share&kind=proto&node-id=10-1794&page-id=10%3A1181&scaling=scale-down&starting-point-node-id=10%3A1792&t=j0HA7x3quGA8rq9X-1&type=design&viewport=547%2C425%2C0.12).
 
 ---
 
